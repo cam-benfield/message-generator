@@ -1,5 +1,7 @@
 # InspireBot for Therapists
-**Project Status: In development**
+**Project Status: Initial Production Stage Complete**
+
+**MVP Complete**
 
 This inspirational message generator was designed to provide therapists and other mental health workers with a breath of fresh air throughout the day. If you would like to contribute, please open an issue/submit a PR and we'll be happy to help.
 
