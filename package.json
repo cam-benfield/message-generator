@@ -1,0 +1,23 @@
+{
+  "name": "message-generator",
+  "version": "1.0.0",
+  "description": "Inspirational Message Generator for Mental Health Professionals",
+  "main": "main.js",
+  "dependencies": {
+    "jshint": "^2.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cam-benfield/message-generator.git"
+  },
+  "author": "Cam Benfield",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cam-benfield/message-generator/issues"
+  },
+  "homepage": "https://github.com/cam-benfield/message-generator#readme"
+}
